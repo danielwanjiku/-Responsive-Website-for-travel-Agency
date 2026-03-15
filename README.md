@@ -2,4 +2,4 @@
 
 This a project aimed to showcase a responsive travel website created using bootstrap components
 
-Website[(https://responsive-website-for-travel-agenc.vercel.app/)]
+[Website](https://responsive-website-for-travel-agenc.vercel.app/)
